@@ -14,3 +14,15 @@ $ git clone https://github.com/anggaxd/cfbid
 $ cd cfbid
 
 $ python2 crack.py
+
+Untuk Cek Hasil Crack Ketik :
+
+$ python2 crack.py resul
+
+# Catatan
+
+Silakan Perbarui Tools Nya Agar Mendapatkan Fiture Terbaru
+
+Ketik : git pull
+Gunakan Sewajarnya
+Mohon Hargai Pembuat Terimakasih
