@@ -9,7 +9,7 @@ $ pkg install python2 git
 
 $ pip2 install requests
 
-$ git clone https://github.com/anggaxd/cfbid
+$ git clone https://github.com/Daffa-XD/cfbid
 
 $ cd cfbid
 
